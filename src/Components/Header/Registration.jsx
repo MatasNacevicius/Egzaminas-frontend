@@ -123,7 +123,7 @@ const Registration = ({ closeModal, BASE_URL, openLoginModal }) => {
         </button>
         <h2 className={styles.modalHeader}>
           Open your <br />
-          <span className={styles.highlight}>AdVatage </span>
+          <span className={styles.highlight}>Skelbiu.lt </span>
           account in just 1 minute
         </h2>
         <form className={styles.modalForm}>

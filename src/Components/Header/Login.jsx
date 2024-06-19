@@ -85,7 +85,7 @@ const Login = ({ closeModal, BASE_URL, handleLoginSuccess, setUserRole }) => {
         </button>
         <h2 className={styles.modalHeader}>
           Please login to your <br />
-          <span className={styles.highlight}>AdVantage </span>
+          <span className={styles.highlight}>Skelbiu.lt </span>
           account
         </h2>
         <form className={styles.modalForm} onSubmit={handleSubmit}>
